@@ -6,11 +6,11 @@ import { getStorage } from 'firebase/storage';
 
 // Replace these values with your Firebase project config
 const firebaseConfig = {
-  apiKey: "63c944807ffcbd58baea7b8a2a0f6be32a338504",
-  authDomain: "peerbetapp.firebaseapp.com",
-  projectId: "peerbetapp",
-  storageBucket: "peerbetapp.firebasestorage.app",
-  messagingSenderId: "31014091482",
+  apiKey: "AIzaSyD6wcUqwhm9SLqac_3B1KYdY5aKCXdVq_w",
+  authDomain: "peerbetapp-test.firebaseapp.com",
+  projectId: "peerbetapp-test",
+  storageBucket: "peerbetapp-test.firebasestorage.app",
+  messagingSenderId: "393525097118",
   appId: "1:31014091482:web:9680da3dc2f30bd46383e3",
 };
 
