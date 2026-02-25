@@ -10,12 +10,3 @@
     "userInterfaceStyle": "light"
   }
 }
-import LoginScreen from './screens/LoginScreen';
-import SignupScreen from './screens/SignupScreen';
-import HomeFeedScreen from './screens/HomeFeedScreen';
-import CreateBetScreen from './screens/CreateBetScreen';
-import BetDetailScreen from './screens/BetDetailScreen';
-import ActiveBetsScreen from './screens/ActiveBetsScreen';
-import SettlementScreen from './screens/SettlementScreen';
-import LeaderboardScreen from './screens/LeaderboardScreen';
-import ProfileScreen from './screens/ProfileScreen';
