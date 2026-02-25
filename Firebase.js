@@ -6,12 +6,12 @@ import { getStorage } from 'firebase/storage';
 
 // Replace these values with your Firebase project config
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT_ID.appspot.com",
-  messagingSenderId: "YOUR_SENDER_ID",
-  appId: "YOUR_APP_ID",
+  apiKey: "AIzaSyCKLx3ZlEwKint9a3FDHL7iAEmXBIJH8fU",
+  authDomain: "peerbetapp.firebaseapp.com",
+  projectId: "peerbetapp",
+  storageBucket: "peerbetapp.firebasestorage.app",
+  messagingSenderId: "31014091482",
+  appId: "1:31014091482:web:9680da3dc2f30bd46383e3",
 };
 
 export const firebaseApp = initializeApp(firebaseConfig);
