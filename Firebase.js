@@ -6,7 +6,7 @@ import { getStorage } from 'firebase/storage';
 
 // Replace these values with your Firebase project config
 const firebaseConfig = {
-  apiKey: "AIzaSyCKLx3ZlEwKint9a3FDHL7iAEmXBIJH8fU",
+  apiKey: "63c944807ffcbd58baea7b8a2a0f6be32a338504",
   authDomain: "peerbetapp.firebaseapp.com",
   projectId: "peerbetapp",
   storageBucket: "peerbetapp.firebasestorage.app",
